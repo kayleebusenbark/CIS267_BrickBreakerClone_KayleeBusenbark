@@ -1,0 +1,1 @@
+This is a brick breaker clone. Use the arrow keys to move the paddle. The red power up is a laser powerup. The green +heart powerup gives you an extra life. The blue powerup is a powerdown that makes it so that the ball cannot destroy any bricks for a few seconds. The game ends once you run out of lives
